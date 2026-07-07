@@ -1,18 +1,25 @@
 {
- "_README": "LIVE ANSWERS FEED. Host at RemoteAnswers.remoteURL. Senators + representatives auto-populated from unitedstates/congress-legislators (verify + keep current). GOVERNORS are blank — fill each with the verified current governor. Update whenever an official changes.",
+ "_README": "LIVE ANSWERS FEED for CitizenPrep. Served from github.com/ipapapa/citizenprep-feed via GitHub Pages. National officials + all 50 governors verified 2026-07-07. Senators/representatives from unitedstates/congress-legislators. Update this file whenever an official changes, and bump 'updated'.",
  "updated": "2026-07-07",
  "national": {
   "president": [
-   "<Current President — full name>"
+   "Donald J. Trump",
+   "Donald Trump",
+   "Trump"
   ],
   "vp": [
-   "<Current Vice President — full name>"
+   "J.D. Vance",
+   "JD Vance",
+   "Vance"
   ],
   "speaker": [
-   "<Current Speaker of the House — full name>"
+   "Mike Johnson",
+   "Michael Johnson",
+   "Johnson"
   ],
   "party": [
-   "<Political party of the current President>"
+   "Republican",
+   "Republican Party"
   ],
   "chief_justice": [
    "John Roberts",
@@ -31,350 +38,350 @@
     "Katie Boyd Britt",
     "Tommy Tuberville"
    ],
-   "governor": ""
+   "governor": "Kay Ivey"
   },
   "AK": {
    "senators": [
     "Dan Sullivan",
     "Lisa Murkowski"
    ],
-   "governor": ""
+   "governor": "Mike Dunleavy"
   },
   "AZ": {
    "senators": [
     "Mark Kelly",
     "Ruben Gallego"
    ],
-   "governor": ""
+   "governor": "Katie Hobbs"
   },
   "AR": {
    "senators": [
     "John Boozman",
     "Tom Cotton"
    ],
-   "governor": ""
+   "governor": "Sarah Huckabee Sanders"
   },
   "CA": {
    "senators": [
     "Adam B. Schiff",
     "Alex Padilla"
    ],
-   "governor": ""
+   "governor": "Gavin Newsom"
   },
   "CO": {
    "senators": [
     "John W. Hickenlooper",
     "Michael F. Bennet"
    ],
-   "governor": ""
+   "governor": "Jared Polis"
   },
   "CT": {
    "senators": [
     "Christopher Murphy",
     "Richard Blumenthal"
    ],
-   "governor": ""
+   "governor": "Ned Lamont"
   },
   "DE": {
    "senators": [
     "Christopher A. Coons",
     "Lisa Blunt Rochester"
    ],
-   "governor": ""
+   "governor": "Matt Meyer"
   },
   "FL": {
    "senators": [
     "Ashley Moody",
     "Rick Scott"
    ],
-   "governor": ""
+   "governor": "Ron DeSantis"
   },
   "GA": {
    "senators": [
     "Jon Ossoff",
     "Raphael G. Warnock"
    ],
-   "governor": ""
+   "governor": "Brian Kemp"
   },
   "HI": {
    "senators": [
     "Brian Schatz",
     "Mazie K. Hirono"
    ],
-   "governor": ""
+   "governor": "Josh Green"
   },
   "ID": {
    "senators": [
     "James E. Risch",
     "Mike Crapo"
    ],
-   "governor": ""
+   "governor": "Brad Little"
   },
   "IL": {
    "senators": [
     "Richard J. Durbin",
     "Tammy Duckworth"
    ],
-   "governor": ""
+   "governor": "JB Pritzker"
   },
   "IN": {
    "senators": [
     "Jim Banks",
     "Todd Young"
    ],
-   "governor": ""
+   "governor": "Mike Braun"
   },
   "IA": {
    "senators": [
     "Chuck Grassley",
     "Joni Ernst"
    ],
-   "governor": ""
+   "governor": "Kim Reynolds"
   },
   "KS": {
    "senators": [
     "Jerry Moran",
     "Roger Marshall"
    ],
-   "governor": ""
+   "governor": "Laura Kelly"
   },
   "KY": {
    "senators": [
     "Mitch McConnell",
     "Rand Paul"
    ],
-   "governor": ""
+   "governor": "Andy Beshear"
   },
   "LA": {
    "senators": [
     "Bill Cassidy",
     "John Kennedy"
    ],
-   "governor": ""
+   "governor": "Jeff Landry"
   },
   "ME": {
    "senators": [
     "Angus S. King, Jr.",
     "Susan M. Collins"
    ],
-   "governor": ""
+   "governor": "Janet Mills"
   },
   "MD": {
    "senators": [
     "Angela D. Alsobrooks",
     "Chris Van Hollen"
    ],
-   "governor": ""
+   "governor": "Wes Moore"
   },
   "MA": {
    "senators": [
     "Edward J. Markey",
     "Elizabeth Warren"
    ],
-   "governor": ""
+   "governor": "Maura Healey"
   },
   "MI": {
    "senators": [
     "Elissa Slotkin",
     "Gary C. Peters"
    ],
-   "governor": ""
+   "governor": "Gretchen Whitmer"
   },
   "MN": {
    "senators": [
     "Amy Klobuchar",
     "Tina Smith"
    ],
-   "governor": ""
+   "governor": "Tim Walz"
   },
   "MS": {
    "senators": [
     "Cindy Hyde-Smith",
     "Roger F. Wicker"
    ],
-   "governor": ""
+   "governor": "Tate Reeves"
   },
   "MO": {
    "senators": [
     "Eric Schmitt",
     "Josh Hawley"
    ],
-   "governor": ""
+   "governor": "Mike Kehoe"
   },
   "MT": {
    "senators": [
     "Steve Daines",
     "Tim Sheehy"
    ],
-   "governor": ""
+   "governor": "Greg Gianforte"
   },
   "NE": {
    "senators": [
     "Deb Fischer",
     "Pete Ricketts"
    ],
-   "governor": ""
+   "governor": "Jim Pillen"
   },
   "NV": {
    "senators": [
     "Catherine Cortez Masto",
     "Jacky Rosen"
    ],
-   "governor": ""
+   "governor": "Joe Lombardo"
   },
   "NH": {
    "senators": [
     "Jeanne Shaheen",
     "Margaret Wood Hassan"
    ],
-   "governor": ""
+   "governor": "Kelly Ayotte"
   },
   "NJ": {
    "senators": [
     "Andy Kim",
     "Cory A. Booker"
    ],
-   "governor": ""
+   "governor": "Mikie Sherrill"
   },
   "NM": {
    "senators": [
     "Ben Ray Luján",
     "Martin Heinrich"
    ],
-   "governor": ""
+   "governor": "Michelle Lujan Grisham"
   },
   "NY": {
    "senators": [
     "Charles E. Schumer",
     "Kirsten E. Gillibrand"
    ],
-   "governor": ""
+   "governor": "Kathy Hochul"
   },
   "NC": {
    "senators": [
     "Ted Budd",
     "Thom Tillis"
    ],
-   "governor": ""
+   "governor": "Josh Stein"
   },
   "ND": {
    "senators": [
     "John Hoeven",
     "Kevin Cramer"
    ],
-   "governor": ""
+   "governor": "Kelly Armstrong"
   },
   "OH": {
    "senators": [
     "Bernie Moreno",
     "Jon Husted"
    ],
-   "governor": ""
+   "governor": "Mike DeWine"
   },
   "OK": {
    "senators": [
     "Alan Armstrong",
     "James Lankford"
    ],
-   "governor": ""
+   "governor": "Kevin Stitt"
   },
   "OR": {
    "senators": [
     "Jeff Merkley",
     "Ron Wyden"
    ],
-   "governor": ""
+   "governor": "Tina Kotek"
   },
   "PA": {
    "senators": [
     "David McCormick",
     "John Fetterman"
    ],
-   "governor": ""
+   "governor": "Josh Shapiro"
   },
   "RI": {
    "senators": [
     "Jack Reed",
     "Sheldon Whitehouse"
    ],
-   "governor": ""
+   "governor": "Dan McKee"
   },
   "SC": {
    "senators": [
     "Lindsey Graham",
     "Tim Scott"
    ],
-   "governor": ""
+   "governor": "Henry McMaster"
   },
   "SD": {
    "senators": [
     "John Thune",
     "Mike Rounds"
    ],
-   "governor": ""
+   "governor": "Larry Rhoden"
   },
   "TN": {
    "senators": [
     "Bill Hagerty",
     "Marsha Blackburn"
    ],
-   "governor": ""
+   "governor": "Bill Lee"
   },
   "TX": {
    "senators": [
     "John Cornyn",
     "Ted Cruz"
    ],
-   "governor": ""
+   "governor": "Greg Abbott"
   },
   "UT": {
    "senators": [
     "John R. Curtis",
     "Mike Lee"
    ],
-   "governor": ""
+   "governor": "Spencer Cox"
   },
   "VT": {
    "senators": [
     "Bernard Sanders",
     "Peter Welch"
    ],
-   "governor": ""
+   "governor": "Phil Scott"
   },
   "VA": {
    "senators": [
     "Mark R. Warner",
     "Tim Kaine"
    ],
-   "governor": ""
+   "governor": "Abigail Spanberger"
   },
   "WA": {
    "senators": [
     "Maria Cantwell",
     "Patty Murray"
    ],
-   "governor": ""
+   "governor": "Bob Ferguson"
   },
   "WV": {
    "senators": [
     "James C. Justice",
     "Shelley Moore Capito"
    ],
-   "governor": ""
+   "governor": "Patrick Morrisey"
   },
   "WI": {
    "senators": [
     "Ron Johnson",
     "Tammy Baldwin"
    ],
-   "governor": ""
+   "governor": "Tony Evers"
   },
   "WY": {
    "senators": [
     "Cynthia M. Lummis",
     "John Barrasso"
    ],
-   "governor": ""
+   "governor": "Mark Gordon"
   }
  },
  "representatives": {
