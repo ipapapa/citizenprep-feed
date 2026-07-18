@@ -816,5 +816,12 @@
   "WV-1": "Carol D. Miller",
   "WV-2": "Riley M. Moore",
   "WY-0": "Harriet M. Hageman"
+ },
+ "photos": {
+  "_note": "Official portraits (public domain, federal works). Relative to the feed base URL. Update alongside 'national' when an officeholder changes.",
+  "president": "photos/president.jpg",
+  "vp": "photos/vp.jpg",
+  "speaker": "photos/speaker.jpg",
+  "chief_justice": "photos/chief_justice.jpg"
  }
 }
